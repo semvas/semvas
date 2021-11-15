@@ -7,8 +7,8 @@
 - 💻 Готов влиться в команду и набираться опыта в любой момент
 
 ### Контакты:
-- email: ivan.sergeyev@gmail.com
-- telegram: @semvas
+- Email: ivan.sergeyev@gmail.com
+- Telegram: @semvas
 
 ### Мои навыки:
 <p align="left">
